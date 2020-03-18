@@ -6,33 +6,33 @@ export function loadLists() {
       cards: [
         {
           id: 1,
-          content: 'Estudar módulo 01 de NodeJS',
-          labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          content: 'Estudar NodeJS',
+          labels: ['#84c870'],
+          user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 2,
-          content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
-          labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          content: 'Criar um clone do spotify',
+          labels: ['#84c870'],
+          user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 3,
-          content: 'Estudar módulo 03 de React Native',
-          labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          content: 'Estudar React Native',
+          labels: ['#84c870'],
+          user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 4,
-          content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
+          content: 'Estudar metodologia agil',
           labels: ['#54e1f7'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 5,
-          content: 'Gravar testes e deploy ReactJS',
+          content: 'Estudar adonis',
           labels: ['#54e1f7'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
       ]
     },
@@ -42,9 +42,9 @@ export function loadLists() {
       cards: [
         {
           id: 6,
-          content: 'Recriando clone do Pipefy',
+          content: 'Criar o simplify',
           labels: [],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         }
       ]
     },
@@ -54,20 +54,20 @@ export function loadLists() {
       cards: [
         {
           id: 7,
-          content: 'Gravar sobre Geolocalização e mapas com React Native',
-          labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          content: 'Consumir API publica do github',
+          labels: ['#84c870'],
+          user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 8,
-          content: 'Gravar testes e deploy ReactJS',
+          content: 'Fazer deploy React Native',
           labels: ['#54e1f7'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 9,
-          content: 'Ajustes na biblioteca unform',
-          labels: [],
+          content: 'Estudar sobre algoritimo',
+          labels: ['#e55e4e'],
         }
       ]
     },
@@ -78,18 +78,18 @@ export function loadLists() {
       cards: [
         {
           id: 10,
-          content: 'Gravar aula sobre deploy e CI com React Native',
-          labels: [],
+          content: 'Criar um clone da netflix',
+          labels: ['#84c870'],
         },
         {
           id: 12,
-          content: 'Gravar testes e deploy ReactJS',
+          content: 'Terminar projetos em andamento',
           labels: ['#54e1f7'],
         },
         {
           id: 13,
-          content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
-          labels: ['#7159c1'],
+          content: 'Ajudar Luisa no projeto dela',
+          labels: ['#84c870'],
         }
       ]
     },
