@@ -88,7 +88,7 @@ export function loadLists() {
         },
         {
           id: 13,
-          content: 'Ajudar Luisa no projeto dela',
+          content: 'Fazer live na twitch',
           labels: ['#84c870'],
         }
       ]
