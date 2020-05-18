@@ -7,12 +7,12 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/lineuxyz/simplify-kanban/stargazers"><img title="#githubstars" alt="Github Stars" src="https://img.shields.io/github/stars/lineuxyz/simplify-kanban?style=social"/></a>
+  <a target="_blank" href="https://github.com/lineuxyz/simplify-kanban/stargazers"><img title="#githubstars" alt="Github Stars" src="https://img.shields.io/github/stars/lineuxyz/simplify-kanban?style=social"/></a>
   <img title="#reposize" alt="Repository size" src="https://img.shields.io/github/repo-size/lineuxyz/simplify-kanban"/>
   <img title="#countlanguages" alt="Languages count" src="https://img.shields.io/github/languages/count/lineuxyz/simplify-kanban"/>
   <img title="#toplanguages" alt="Languages top" src="https://img.shields.io/github/languages/top/lineuxyz/simplify-kanban"/>
   <img title="#lastcommit" alt="Last commit" src="https://img.shields.io/github/last-commit/lineuxyz/simplify-kanban"/>
-  <a href="https://www.linkedin.com/in/lineu-pastorelli-5165a7186"><img title="#lineupastorellilinkedin" alt="Author Linkedin" src="https://img.shields.io/badge/made%20by-Lineu%20Pastorelli-green"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/lineu-pastorelli-5165a7186"><img title="#lineupastorellilinkedin" alt="Author Linkedin" src="https://img.shields.io/badge/made%20by-Lineu%20Pastorelli-green"/></a>
 </p>
 
 <p align="center">
@@ -81,4 +81,4 @@ After meging your receipt request to done, you can delete a branch from yours.
 
 This project is under the MIT license. See the [LICENSE](LICENSE) for details.
 
-Made ❤️ with by [Lineu Pastorelli](https://www.linkedin.com/in/lineu-pastorelli-5165a7186)
+Made ❤️ with by <a target="_blank" href="https://www.linkedin.com/in/lineu-pastorelli-5165a7186">Lineu Pastorelli</a>
