@@ -1,68 +1,84 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <img title="#logoscrum" alt="Logo scrum" src="./.github/logo.png" width="100px"/>
+</h1>
 
-## Available Scripts
+<h4 align="center">
+  Simplify
+</h4>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="https://github.com/lineuxyz/simplify-kanban/stargazers"><img title="#githubstars" alt="Github Stars" src="https://img.shields.io/github/stars/lineuxyz/simplify-kanban?style=social"/></a>
+  <img title="#reposize" alt="Repository size" src="https://img.shields.io/github/repo-size/lineuxyz/simplify-kanban"/>
+  <img title="#countlanguages" alt="Languages count" src="https://img.shields.io/github/languages/count/lineuxyz/simplify-kanban"/>
+  <img title="#toplanguages" alt="Languages top" src="https://img.shields.io/github/languages/top/lineuxyz/simplify-kanban"/>
+  <img title="#lastcommit" alt="Last commit" src="https://img.shields.io/github/last-commit/lineuxyz/simplify-kanban"/>
+  <a href="https://www.linkedin.com/in/lineu-pastorelli-5165a7186"><img title="#lineupastorellilinkedin" alt="Author Linkedin" src="https://img.shields.io/badge/made%20by-Lineu%20Pastorelli-green"/></a>
+</p>
 
-### `yarn start`
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h1 align="center">
+  <img title="#gifapresentation" aria-hidden="true" src="./.github/gif.gif" width="600px">
+</h1>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 📚 Project
 
-### `yarn test`
+Simplify is a project with the objective of creating a to-do list, organizing projects between teams so that everyone can see what each one is doing, thus making is easier to manage a project.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🖥 Technologies
 
-### `yarn build`
+  * [ReactJS](https://reactjs.org)
+  * [Yarn](https://yarnpkg.com)
+  * [React-icons](https://react-icons.github.io/react-icons/)
+  * [Styled-components](https://styled-components.com/docs)
+  * [Commitizen](https://github.com/commitizen/cz-cli)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🔖 Layout 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<p align="center">
+  <img title="#imageapresentation" aria-hidden="true" src="./.github/print01.png" width="400px">
+    <img title="#imageapresentation" aria-hidden="true" src="./.github/print02.png" width="400px">
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ❓ How to use
 
-### `yarn eject`
+To clone an run this application, you'll need [Git](https://git-scm.com), [Yarn](https://yarnpkg.com) or [NPM](https://www.npmjs.com) installed on your computer.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Execute the command line:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Clone the project
+```bash
+# Clone this reposity
+$ git clone https://github.com/lineuxyz/simplify-kanban
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Go into the repository
+$ cd simplify-kanban
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Install dependencies
+$ yarn install or npm install 
 
-## Learn More
+# Run project
+$ yarn start or npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤔 How to contribute
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Make a fork;
+* Create a branch com your feature: `git checkout -b my-feature`;
+* Commit changes: `git commit -m "feat: my new feature`;
+* Make a push to your branch: `git push origin my-feature`
 
-### Code Splitting
+After meging your receipt request to done, you can delete a branch from yours.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## 📜 License 
 
-### Analyzing the Bundle Size
+This project is under the MIT license. See the [LICENSE](LICENSE) for details.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Made ❤️ with by [Lineu Pastorelli](https://www.linkedin.com/in/lineu-pastorelli-5165a7186)
